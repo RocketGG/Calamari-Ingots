@@ -57,6 +57,8 @@ To celebrate the legacy of Star Wars and its concept of Galactic Credits, an eng
 
 
 This initiative is not just a celebration of the cultural impact of Star Wars and the concept of a universal currency that binds diverse worlds together; it's also a testament to the potential of fiction to inspire real-world innovation. As this new cryptocurrency ventures to become the standard for interstellar trade, it carries with it the spirit of exploration and unity that Star Wars has epitomized for generations. 
+
+
 To any Disney Lawyers out there, Calamari is the name of our fabled metal and BESKAR is the Symbol of the currency (our money). Nowhere do we use Galactic Credit (which you don’t own) Calamari Flan (which is a soup) or Baskar Steal. Our metal comes from a lost earth and is named Calamari. BESKAR is the name of our money as WooLong was already taken. We are a tribute mothing more to space sagas. We all enjoy your films. Please leave us alone for a Woolong time.
 We HOLD NO affiliation with DISNEY!!!
 Thank You
