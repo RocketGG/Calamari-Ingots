@@ -44,8 +44,11 @@ Incorporating the latest in cryptographic security and built on the scarcity of 
 The adoption of this cryptocurrency across galaxies is inspired by numerous works of science fiction, including:
  
 Isaac Asimov's "Foundation" series - exploring the idea of a universal currency within a sprawling galactic empire.
+
 Frank Herbert's "Dune" - though centered around the trade of a unique substance, it underscores the importance of a unified economic system.
+
 "The Expanse" by James S.A. Corey - illustrating the complexities of economic and political interdependence across space-faring civilizations.
+
 Lastly, the journey through the stars in "Cowboy Bebop" emphasizes the fluidity and necessity of a common currency in navigating the frontiers of space, from bounty hunting to dealings with the underworld, underscoring the practicality and essential nature of having a universal monetary system.
 
 To celebrate the legacy of Star Wars and its concept of Galactic Credits, an engaging campaign has been initiated: participants who identify references and inspirations from each space universe shared on the project's GitHub page, and possibly other science fiction literature, will be rewarded with galaxy credits, further immersing fans in the rich tapestry of intergalactic lore. That's right we are giving away free credits.
