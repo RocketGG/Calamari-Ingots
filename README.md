@@ -33,7 +33,8 @@ Calamari Ingots, with its ticker BESKAR, aspires to redefine the meme cryptocurr
 
 This adjusted summary aligns with your correction to use "BESKAR" as the ticker. A full white paper would further elaborate on these sections, providing granular details on the project's technical architecture, governance model, and comprehensive tokenomics strategy.
 
-Welcom to Starlord and Rockets Github page here we discuss the background of the token and its niche
+Welcom to Starlord and Rockets Github page here we discuss the background of the token and its niche.
+
 In the vast expanse of the galaxy, where countless stories of adventure, politics, and trade unfold across star systems, the creation of a universal currency has been a pivotal development. Drawing inspiration from the iconic Star Wars saga, where Galactic Credits served as the main currency of the Galactic Republic and the subsequent Galactic Empire, a new cryptocurrency has emerged to unify the galaxy's diverse economies. This digital currency, named after the precious metals mined exclusively from a Lost Planet (Terra), pays homage to the concept of Galactic Credits, the backbone of economic activity in one of the most beloved outer space series of all time.
 
 This cryptocurrency, an obvious nod to the Star Wars universe, is not only a medium for trade across solar systems but also a tribute to the enduring influence of science fiction on our imagination and technological aspirations. It's designed to facilitate trade and commerce from one end of the galaxy to another, making transactions seamless for traders navigating the complex networks of interstellar commerce.
